@@ -1,6 +1,6 @@
 {
   "name": "@kldit/util-boolean-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "boolean parse",
   "main": "index.js",
   "scripts": {
